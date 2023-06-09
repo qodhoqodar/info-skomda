@@ -1,0 +1,40 @@
+/* CSS untuk judul */
+h1 {
+	color: #333333;
+	text-align: center;
+}
+
+/* CSS untuk link tambah data */
+a {
+	text-decoration: none;
+}
+
+/* CSS untuk tabel */
+table {
+	width: 100%;
+	border-collapse: collapse;
+	margin-bottom: 20px;
+}
+
+th, td {
+	padding: 8px;
+	text-align: left;
+}
+
+th {
+	background-color: #e10c0c;
+	color: rgb(241, 241, 237);
+}
+
+tr:nth-child(even) {
+	background-color: #f9f9f9;
+}
+
+/* CSS untuk foto */
+img {
+	max-width: 100px;
+	height: auto;
+	display: block;
+	margin: 0 auto;
+}
+

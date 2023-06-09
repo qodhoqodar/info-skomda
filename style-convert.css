@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    max-width: 2000px;
+  }
+  
+  .container {
+    position: relative;
+    max-width: 2000px; /* Sesuaikan dengan lebar maksimum yang diinginkan */
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Tambahkan gaya CSS lainnya sesuai dengan kebutuhan Anda */
+  
+
+nav {
+    background-color: #ffffff;
+    padding: 10px;
+    text-align: right;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: -30px;
+}
+
+nav li {
+    display: inline;
+    margin-left: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #000;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 45px;
+    margin-right: 50px; 
+    margin-left: 20px; 
+
+    opacity: 0.8;
+}
+
+.judul {
+    position: relative;
+    top: -64px;
+    left: -648px;
+}
+
+.model {
+    position: relative;
+    margin-left: 550px;
+    top: -717px;
+    width: 733px;
+height: 797.38px;
+}
+
+.sambutan {
+    position: relative;
+    margin-left: 36px;
+    top: -464px;
+}
+
+.navbar {
+    background-color: red;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 1329px;
+    padding: 10px;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 38px;
+
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+.navbar li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar h3 {
+    text-decoration: none;
+    color: white;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 38px;
+
+}

@@ -1,0 +1,53 @@
+/* CSS untuk header */
+header {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+/* CSS untuk form */
+form {
+	width: 300px;
+	margin: 0 auto;
+}
+
+label {
+	display: block;
+	margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="file"] {
+	width: 100%;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+input[type="radio"] {
+	margin-right: 5px;
+}
+
+input[type="submit"] {
+	padding: 10px 20px;
+	background-color: #007bff;
+	color: #fff;
+	border: none;
+	cursor: pointer;
+}
+
+/* CSS untuk pesan error */
+.error-message {
+	color: red;
+	margin-top: 10px;
+}
+
+/* CSS untuk pesan berhasil */
+.success-message {
+	color: green;
+	margin-top: 10px;
+}
+
+body{
+	background:rgb(255, 150, 150);
+}
+
+

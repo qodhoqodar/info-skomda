@@ -1,0 +1,74 @@
+/* CSS untuk judul */
+h1 {
+	color: #333333;
+	text-align: center;
+}
+
+/* CSS untuk link tambah data */
+a {
+	text-decoration: none;
+}
+
+/* CSS untuk tabel */
+table {
+	width: 100%;
+	border-collapse: collapse;
+	margin-bottom: 20px;
+}
+
+th, td {
+	padding: 8px;
+	text-align: left;
+}
+
+th {
+	background-color: #e10c0c;
+	color: rgb(241, 241, 237);
+}
+
+tr:nth-child(even) {
+	background-color: #f9f9f9;
+}
+
+/* CSS untuk foto */
+img {
+	max-width: 100px;
+	height: auto;
+	display: block;
+	margin: 0 auto;
+}
+
+/* CSS untuk tombol aksi */
+td a {
+	margin-right: 5px;
+}
+
+/* CSS untuk konfirmasi hapus */
+
+nav {
+    background-color: #333;
+    height: 50px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline;
+  }
+  
+  li a {
+    color: white;
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  li a:hover {
+    background-color: #555;
+  }
+  
